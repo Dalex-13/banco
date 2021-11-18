@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6195c0a96adf8939bc52d712"
+  },
+  "id": "123456789",
+  "tipocreditoid": "personal",
+  "idmoneda": "soles",
+  "nombre": "jose luis",
+  "monto": "4000.00"
+}]

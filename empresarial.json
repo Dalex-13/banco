@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6195bccc6adf8939bc52d70d"
+  },
+  "ruc": "20557782649",
+  "rsocial": "ripcar e.i.r.l",
+  "direccion": "av. mexico #454",
+  "idusuario": [
+    "123456789"
+  ]
+}]
